@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.qtxved",
+      "sha256_cert_fingerprints": ["00:80:B7:57:02:6B:EB:5F:F4:3B:E5:3F:B1:B7:AE:94:59:BC:74:2C:C9:6C:8B:03:78:C5:D4:AC:44:0B:D3:C5"]
+    }
+  }
+]
